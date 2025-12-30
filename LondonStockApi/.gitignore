@@ -1,6 +1,0 @@
-﻿# Build artifacts
-bin/
-obj/
-
-# Visual Studio workspace
-.vs/
